@@ -1,0 +1,1 @@
+This can drop a table or a database.

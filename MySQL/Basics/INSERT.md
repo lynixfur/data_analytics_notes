@@ -1,0 +1,1 @@
+Used to insert data into the database.

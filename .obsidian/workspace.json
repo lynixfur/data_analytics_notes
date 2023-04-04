@@ -54,9 +54,113 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70ab7f866900977b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Install Packages with Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f87b36fdfcec033e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac46b0ba5e0f9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/INSERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "984c05c7c8cb73f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/UPDATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4503c80d3cc870a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5575f43790dfd7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33df8f7c5a0a277b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Basics/DROP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67fd75ee7be5159e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ddfd2674cb96365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/Datatypes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -122,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/How to Install Packages in R.md",
+                "file": "MySQL/Datatypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/How to Install Packages in R.md",
+                "file": "MySQL/Datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/How to Install Packages in R.md"
+                "file": "MySQL/Datatypes.md"
               }
             }
           }
@@ -183,10 +287,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35776be543917871",
+  "active": "5ddfd2674cb96365",
   "lastOpenFiles": [
-    "R/Building R Code.md",
+    "MySQL/Datatypes.md",
+    "Untitled.canvas",
+    "MySQL/Basics/DELETE.md",
+    "MySQL/Basics/DROP.md",
+    "MySQL/Indexes.md",
+    "MySQL/Basics/INSERT.md",
+    "MySQL/Basics/SELECT.md",
+    "MySQL/Basics/UPDATE.md",
+    "MySQL/Constraints.md",
+    "MySQL/Basics",
+    "Python/Install Packages with Python.md",
     "R/How to Install Packages in R.md",
+    "R/Building R Code.md",
     "R/Printing in R.md",
     "README.md",
     "R",
